@@ -5,8 +5,8 @@
 I build computer vision systems that run on real production lines: defect detection, anomaly detection and OCR, optimised for fast edge inference.
 
 - 🏭 **4+ years in production CV**: real-time defect detection at IPRISM Vision Inspection (South Korea), reaching **99.4% accuracy at 23 ms latency** with INT8 quantisation via OpenVINO
-- 🔍 **Industrial inspection**: Basler cameras, YOLOv8, CFlow anomaly detection, transfer-learning classifiers, Siemens PLC integration
-- ⚡ **Deployment**: OpenVINO, TensorRT, C++, FastAPI, Azure ML (certified)
+- 🔍 **Industrial inspection**: Basler cameras, YOLOv8, CFlow anomaly detection, transfer-learning classifiers
+- ⚡ **Edge deployment**: NVIDIA Jetson, TensorRT, OpenVINO, C++, FastAPI, Azure ML (certified)
 - 🧠 **Also working with**: LangChain, RAG, multimodal LLMs
 - 🎓 MSc in Management Information Systems, Chungbuk National University
 
@@ -15,8 +15,8 @@ I build computer vision systems that run on real production lines: defect detect
 ### 🛠️ Tech Stack
 
 **CV & DL:** PyTorch · YOLOv8/YOLO11 · OpenCV · Anomalib
-**Deployment:** OpenVINO · TensorRT · C++ · FastAPI · Docker
-**Industrial:** Basler (pypylon) · Siemens PLC (snap7)
+**Deployment:** NVIDIA Jetson · TensorRT · OpenVINO · ONNX · C++ · FastAPI · Docker
+**Industrial:** Basler (pypylon) · machine-vision cameras
 **Cloud & LLM:** Azure ML · LangChain · RAG
 
 ---
@@ -25,6 +25,7 @@ I build computer vision systems that run on real production lines: defect detect
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**autoencoder-anomaly-detection**](https://github.com/eslamelmenyawy/autoencoder-anomaly-detection) | Unsupervised defect detection and localisation with ConvAE, VAE and MemAE; ONNX/OpenVINO export, REST API, Docker, CI | PyTorch · ONNX Runtime · FastAPI |
 | [**anomaly-detector**](https://github.com/eslamelmenyawy/anomaly-detector) | Unsupervised defect detection (CFlow, PaDiM) with CLI training and OpenVINO / PyTorch deployment | Anomalib · OpenVINO · PyTorch |
 | [**Multimodal_RAG**](https://github.com/eslamelmenyawy/Multimodal_RAG) | Visual RAG benchmark on a 229-page bank annual report: VisRAG vs ColPali, answers by GPT-4o Vision | ColPali · VisRAG · GPT-4o |
 | [**RAG-QABot**](https://github.com/eslamelmenyawy/RAG-QABot) | PDF question answering with hybrid search, cross-encoder reranking and RAGAS evaluation | LangChain · ChromaDB · BM25 · Gradio |
