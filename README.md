@@ -5,7 +5,7 @@
 I build computer vision systems that run on real production lines: defect detection, anomaly detection and OCR, optimised for fast edge inference.
 
 - 🏭 **4+ years in production CV**: real-time defect detection at IPRISM Vision Inspection (South Korea), reaching **99.4% accuracy at 23 ms latency** with INT8 quantisation via OpenVINO
-- 🔍 **Industrial inspection**: Basler cameras, YOLOv8, CFlow anomaly detection, transfer-learning classifiers
+- 🔍 **Industrial inspection**: object detection (YOLOv8/YOLO11), instance segmentation, autoencoder & CFlow anomaly detection, transfer-learning classifiers, Basler cameras
 - ⚡ **Edge deployment**: NVIDIA Jetson, TensorRT, OpenVINO, C++, FastAPI, Azure ML (certified)
 - 🧠 **Also working with**: LangChain, RAG, multimodal LLMs
 - 🎓 MSc in Management Information Systems, Chungbuk National University
@@ -14,7 +14,7 @@ I build computer vision systems that run on real production lines: defect detect
 
 ### 🛠️ Tech Stack
 
-**CV & DL:** PyTorch · YOLOv8/YOLO11 · OpenCV · Anomalib
+**CV & DL:** PyTorch · Object Detection · Instance Segmentation · Autoencoders · YOLOv8/YOLO11 · OpenCV · Anomalib
 **Deployment:** NVIDIA Jetson · TensorRT · OpenVINO · ONNX · C++ · FastAPI · Docker
 **Industrial:** Basler (pypylon) · machine-vision cameras
 **Cloud & LLM:** Azure ML · LangChain · RAG
