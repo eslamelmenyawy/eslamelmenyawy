@@ -1,4 +1,4 @@
-# Hi, I'm Sam (Islam) Elmenyawy 👋
+# Hi, I'm Sam (Eslam) Elmenyawy 👋
 
 **AI/ML Engineer · Computer Vision · Industrial Inspection** · Sydney, Australia
 
