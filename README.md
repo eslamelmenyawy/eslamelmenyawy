@@ -31,7 +31,6 @@ I build computer vision systems that run on real production lines: defect detect
 | [**RAG-QABot**](https://github.com/eslamelmenyawy/RAG-QABot) | PDF question answering with hybrid search, cross-encoder reranking and RAGAS evaluation | LangChain · ChromaDB · BM25 · Gradio |
 | [**yolo11-person-tracker**](https://github.com/eslamelmenyawy/yolo11-person-tracker) | Real-time multi-person tracking with persistent IDs, motion trails and latency telemetry | YOLO11 · ByteTrack · OpenCV |
 | [**AiRISS_testcode**](https://github.com/eslamelmenyawy/AiRISS_testcode) | Desktop toolkit for 8–16-bit industrial images: ROI, crop, normalise, histogram | OpenCV · Tkinter |
-| **Expiry-Date Print Inspection** *(coming soon)* | Classifies inkjet-printed expiry dates as readable (OK) or defective (NG) | YOLO · OCR |
 
 ---
 
