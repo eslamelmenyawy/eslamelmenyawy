@@ -36,6 +36,6 @@ I build computer vision systems that run on real production lines: defect detect
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/islam-ahmed-00188015a/) · eslamelmenyawy1988@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sam-elmenyawy-00188015a/) · eslamelmenyawy1988@gmail.com
 
 💼 Open to Computer Vision / ML Engineer roles in Sydney
